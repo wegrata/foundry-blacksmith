@@ -1,0 +1,21 @@
+{
+    "name": "foundry-blacksmith",
+    "title": "PF2 Custom Weapon Creation",
+    "description": "A simple module to create custom PF2 weapons.",
+    "author": "wgrata",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.5.0",
+    "dependencies": [
+        {
+          "name": "pathfinder2e",
+          "type": "system"
+        }
+    ],
+    "languages": [
+        {
+          "lang": "en",
+          "name": "English",
+          "path": "lang/en.json"
+        }
+    ]        
+  }
